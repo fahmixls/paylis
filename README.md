@@ -13,7 +13,8 @@ Paylis is a non-custodial payment gateway that allows online merchants to seamle
 
 | Item                            | Link                                                                                                                      |
 | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
-| **Live Project URL**            | [https://paylis.app](https://paylis.netlify.app)                                                                          |
+| **Live Project URL**            | [https://paylis.netlify.app](https://paylis.netlify.app)                                                                  |
+| **Wordpress Demo Site**         | [Wordpress Demo](https://graph.xixixilab.fun)                                                                             |
 | **Smart Contract**              | [View on Lisk Sepolia Blockscout](https://sepolia-blockscout.lisk.com/address/0x65653f7fD8ac409D3C812294eC2FfE8CF5e98a7f) |
 | **Mock IDRX**                   | [View on Lisk Sepolia Blockscout](https://sepolia-blockscout.lisk.com/address/0xcA0A2cE00d5b6Dd22C65731D8F64939537595D01) |
 | **Mock USDC**                   | [View on Lisk Sepolia Blockscout](https://sepolia-blockscout.lisk.com/address/0x0A218c6a23Ede0395474e9d875c7fE2BF859Cf10) |
